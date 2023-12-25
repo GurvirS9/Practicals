@@ -1,0 +1,11 @@
+Meta, OpenAI, and Microsoft said they will use AMD’s newest AI chip,
+the Instinct MI300X — a sign that tech companies want alternatives to the expensive
+Nvidia graphics processors that have been essential for artificial intelligence.
+If the MI300X is good enough and inexpensive enough when it starts shipping early
+next year, it could lower costs for developing AI models. AMD CEO Lisa Su projected
+the market for AI chips will amount to $400 billion or more in 2027, and she said
+she hopes AMD has a sizable part of that market.
+
+
+
+
